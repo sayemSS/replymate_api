@@ -1,0 +1,18 @@
+[
+    {
+        "id": "comment_1",
+        "message": "Hello, I need help with your product."
+    },
+    {
+        "id": "comment_2",
+        "message": "এটা কি সেবা দেয়? আমাকে জানাও।"
+    },
+    {
+        "id": "comment_3",
+        "message": "Buy now! Click here for great deals!!!"
+    },
+    {
+        "id": "comment_4",
+        "message": "আপনার সেবা সম্পর্কে আরো তথ্য জানতে চাই।"
+    }
+]
